@@ -34,10 +34,10 @@ public class FileUtils {
 		endpoint = "http://oss-cn-beijing.aliyuncs.com";
 		// 云账号AccessKey有所有API访问权限，建议遵循阿里云安全最佳实践，创建并使用RAM子账号进行API访问或日常运维，请登录
 		// https://ram.console.aliyun.com 创建。
-//		accessKeyId = "LTAI4G93VpUPYcKGadmZAXr4";
-		accessKeyId = "LTAI4GCzj5LVbDN8LMzQbHVv";
-//		accessKeySecret = "3Ih49kZXvin3C3dmLcTZ4JyraI3Kjq";
-		accessKeySecret = "ZS1iTY6ddNiP8hp4EXARMIuntMUxpX";
+//		accessKeyId = "";
+		accessKeyId = "";
+//		accessKeySecret = "";
+		accessKeySecret = "";
 		bucketName = "travelremark";
 	}
 
